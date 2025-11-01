@@ -26,5 +26,5 @@ def menu():     #Contiene las funciones de logica principales e imprime las opci
         else:
             print("Opción no válida. Intente de nuevo.")
 
-if __name__ == "__main__":
+if __name__ != "__main__":
     menu()
