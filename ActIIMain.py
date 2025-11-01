@@ -1,7 +1,7 @@
 from ActIIManager import *
 import sys
 
-def menu():
+def menu():     #Contiene las funciones de logica principales e imprime las opciones a elegir
     while True:
         print("\n===== Menú Principal Axanet =====")
         print("1. Crear cliente")
